@@ -119,6 +119,9 @@ Letak file:
 src/assets/view_delete.png
 src/assets/view_tambah_folder.png
 ```
+![Delete Preview](src/assets/view_delete.png)
+![Tambah Folder Preview](src/assets/view_tambah_folder.png)
+
 
 ---
 
